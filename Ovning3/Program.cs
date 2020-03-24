@@ -53,3 +53,4 @@ namespace Ovning3
 //  polymorfism låter oss definiera ett interface och ha flera implementationer.
 // Interface kan ses som ett specialfall av abstrakta klasser. Dessa innehåller 
 // enbart definitioner av metoder, och ingen implementering alls
+//hhh
